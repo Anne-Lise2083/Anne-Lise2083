@@ -9,8 +9,8 @@
 <table style="width: 100%; border-collapse: separate; border-spacing: 0;">
 <tr>
 <td style="width: 70%; padding: 20px; vertical-align: top;
-           border: 2px solid #0038A8; 
-           border-radius: 15px; 
+           border: 2px solid #0038A8 !important; 
+           border-radius: 15px !important; 
            background-color: white;">
 
 I'm a **Data Scientist** 👩🏼‍💻 passionate about turning data into strategic insights. My approach combines **analytical rigor** 📊 with **creativity** 👩🏼‍🎨 to solve complex problems.
@@ -24,7 +24,7 @@ I'm a **Data Scientist** 👩🏼‍💻 passionate about turning data into stra
 <td style="width: 30%; padding: 0; vertical-align: top;">
 <picture>
   <source media="(prefers-reduced-motion: no-preference)" srcset="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" alt="Data Science GIF" style="pointer-events: none; border-radius: 15px;">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" alt="Data Science GIF" style="pointer-events: none; border: 2px solid #0038A8 !important; border-radius: 15px !important;">
 </picture>
 </td>
 </tr>
