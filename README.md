@@ -6,9 +6,12 @@
 
 ### **🙋🏼‍♀️ About Me**
 
-<table border="0" cellspacing="0" cellpadding="0" style="border: none; border-collapse: collapse;">
-<tr style="border: none;">
-<td width="70%" valign="top" style="border: none; padding: 0;">
+<table style="width: 100%; border-collapse: separate; border-spacing: 0;">
+<tr>
+<td style="width: 70%; padding: 20px; vertical-align: top;
+           border: 2px solid #0038A8; 
+           border-radius: 15px; 
+           background-color: white;">
 
 I'm a **Data Scientist** 👩🏼‍💻 passionate about turning data into strategic insights. My approach combines **analytical rigor** 📊 with **creativity** 👩🏼‍🎨 to solve complex problems.
 
@@ -18,10 +21,10 @@ I'm a **Data Scientist** 👩🏼‍💻 passionate about turning data into stra
 - 📈 Goal: **maximize business impact** through tech-driven solutions  
 
 </td>
-<td width="30%" valign="top" style="border: none; padding: 0;">
+<td style="width: 30%; padding: 0; vertical-align: top;">
 <picture>
   <source media="(prefers-reduced-motion: no-preference)" srcset="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" alt="Data Science GIF" style="pointer-events: none;">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="100%" alt="Data Science GIF" style="pointer-events: none; border-radius: 15px;">
 </picture>
 </td>
 </tr>
