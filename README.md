@@ -6,7 +6,7 @@
 
 ### **🙋🏼‍♀️ About Me**
 <p align="justify">
- <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Data Science GIF" style="display: block; -webkit-user-select: none; margin: auto;">
+  <img align="right" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif?raw=true" width="300" alt="Data Science GIF" style="float: right; margin-left: 20px;">
   
   I'm a **Data Scientist** 👩🏼‍💻 passionate about turning data into strategic insights. My approach combines **analytical rigor** 📊 with **creativity** 👩🏼‍🎨 to solve complex problems.  
 
@@ -16,6 +16,7 @@
   - 📈 Goal: **maximize business impact** through tech-driven solutions  
 
 </p>
+<div style="clear: both;"></div>
 
 ---
 
