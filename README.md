@@ -5,16 +5,20 @@
 ---
 
 ### **🙋🏼‍♀️ About Me**
+<p align="justify">
+  <picture align="right">
+    <source media="(prefers-reduced-motion: no-preference)" srcset="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
+    <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" alt="Data Science GIF" style="pointer-events: none;">
+  </picture>
+  
+  I'm a **Data Scientist** 👩🏼‍💻 passionate about turning data into strategic insights. My approach combines **analytical rigor** 📊 with **creativity** 👩🏼‍🎨 to solve complex problems.  
 
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" align="right" alt="Data Science GIF">
-
-I'm a **Data Scientist** 👩🏼‍💻 passionate about turning data into strategic insights. My approach combines **analytical rigor** 📊 with **creativity** 👩🏼‍🎨 to solve complex problems.
-
-- 🔍 Expertise in **Big Data** 🤖, **Machine Learning**, and **data visualization**  
-- 🎯 Skilled in **project management** 📑 and stakeholder communication  
-- 🌟 Thrive on innovative challenges in fast-paced environments  
-- 📈 Goal: **maximize business impact** through tech-driven solutions
-
+  - 🔍 Expertise in **Big Data** 🤖, **Machine Learning**, and **data visualization**  
+  - 🎯 Skilled in **project management** 📑 and stakeholder communication  
+  - 🌟 Thrive on innovative challenges in fast-paced environments  
+  - 📈 Goal: **maximize business impact** through tech-driven solutions  
+</p>
+<div style="clear: both;"></div
 </div>
 
 ---
